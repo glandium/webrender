@@ -43,6 +43,10 @@ name = "scrolling"
 path = "scrolling.rs"
 
 [[bin]]
+name = "text"
+path = "text.rs"
+
+[[bin]]
 name = "texture_cache_stress"
 path = "texture_cache_stress.rs"
 
